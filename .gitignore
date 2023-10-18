@@ -1,0 +1,13 @@
+models/c3d.pickle
+*/__pycache__
+__pycache__
+keys.py
+videos
+test
+temp
+./videos/*
+videos
+Scripts
+Lib
+environment.yml
+output

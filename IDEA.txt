@@ -1,0 +1,4 @@
+1.ANAMONALY DETECTION MODEL
+2.Frontend
+3. Node Backend
+4. Model Backend
